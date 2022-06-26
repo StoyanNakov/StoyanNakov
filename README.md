@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StoyanNakov
-- 👀 I'm interested in programming languages - C#, Python. C++
+- 👀 I'm interested in programming languages - C#, Python, C++
 - 🌱 I’m currently learning in SoftUni
 
 
